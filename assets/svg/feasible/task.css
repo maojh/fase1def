@@ -1,0 +1,44 @@
+.task{
+    width:80%;
+    height: auto;
+}
+
+#managing, #expert, #stakeholder, #unpredictable, #data_collection, #data_processing, #predictable {
+    opacity: .4;
+    transition: .2s ease;
+}
+#managing:hover
+{
+    opacity: 1;
+    transition: .1s ease;
+}
+#expert:hover
+{
+    opacity: 1;
+    transition: .1s ease;
+}
+#stakeholder:hover
+{
+    opacity: 1;
+    transition: .1s ease;
+}
+#unpredictable:hover
+{
+    opacity: 1;
+    transition: .1s ease;
+}
+#data_collection:hover
+{
+    opacity: 1;
+    transition: .1s ease;
+}
+#data_processing:hover
+{
+    opacity: 1;
+    transition: .1s ease;
+}
+#predictable:hover
+{
+    opacity: 1;
+    transition: .1s ease;
+}

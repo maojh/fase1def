@@ -1,0 +1,23 @@
+{
+  "name": "fase1",
+  "version": "1.0.0",
+  "description": "final synthesis studio c3 fase 1 website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maojh/fase1.git"
+  },
+  "author": "maojh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maojh/fase1/issues"
+  },
+  "homepage": "https://github.com/maojh/fase1#readme",
+  "dependencies": {
+    "in-view": "^0.6.1",
+    "tooltip.js": "^1.1.5"
+  }
+}
