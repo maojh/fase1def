@@ -7,6 +7,9 @@ body {
 img {
   width: 100%;
 }
+#expImgfix {
+  max-width: 96%;
+}
 .wrapper {
   /*margin: 0 auto;*/
   background-color: transparent;
