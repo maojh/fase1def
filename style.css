@@ -24,8 +24,9 @@ img {
   overflow: hidden;
   padding: 0;
 }
-#noPad {
-  padding-left: 0;
+#padExc {
+  padding-right: 10%;
+  padding-left: 10%;
 }
 
 #investments, #impact, #pootential, #feasible, #opinion, #source {
