@@ -29,16 +29,21 @@ img {
 }
 #padExc {
   padding-right: 10%;
-  padding-left: 10%;
+  padding-left: 5%;
 }
 @media only screen and (min-width: 1200px) {
   #padExc {
-    padding-left: 22%;
+    padding-left: 5%;
+  }
+}
+@media only screen and (max-width: 1200px) {
+  #padExc {
+    padding-left: 10%;
   }
 }
 @media only screen and (max-width: 1000px) {
   #padExc {
-    padding-left: 15%;
+    padding-left: 10%;
   }
 }
 @media only screen and (max-width: 900px) {
