@@ -31,7 +31,21 @@ img {
   padding-right: 10%;
   padding-left: 10%;
 }
-
+@media only screen and (min-width: 1200px) {
+  #padExc {
+    padding-left: 22%;
+  }
+}
+@media only screen and (max-width: 1000px) {
+  #padExc {
+    padding-left: 15%;
+  }
+}
+@media only screen and (max-width: 900px) {
+  #padExc {
+    padding-left: 10%;
+  }
+}
 #investments, #impact, #pootential, #feasible, #opinion, #source {
   /*padding: 0% 10%;*/
 }
@@ -419,8 +433,9 @@ a:hover {
 
 .fulltitle {
   min-width: 100%;
-  letter-spacing: 5px;
-  font-size: 3.3vw;
+  letter-spacing: 4px;
+  font-size: 2.7vw;
+  margin-bottom: 3%;
 }
 
 @media only screen and (max-width: 1400px) {
